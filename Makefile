@@ -11,3 +11,6 @@ chararray: chararray.c
 
 valentine: valentine.c
 	gcc valentine.c -o valentine
+
+average: average.c
+	gcc average.c -o average
